@@ -1,0 +1,38 @@
+[
+    {
+      "personalInfo": {
+        "firstName": "Joshua Isaac",
+        "lastName": "Mendez",
+        "about": "Soy desarrollador web con experiencia en diseño de páginas web y marketing digital. Tengo habilidades en HTML, CSS, JavaScript, PHP, y también en Inteligencia Artificial.",
+        "email": "joshuaiphone02@gmail.com",
+        "githubProfileUrl": "https://github.com/joshua0231234",
+        "linkedinProfileUrl": null
+      },
+      "skills": [
+        "html",
+        "css",
+        "javascript",
+        "python",
+        "php"
+      ],
+      "experiences": [
+        {
+          "example": true,
+          "date": "2025-01-01",
+          "role": "Example Role",
+          "company": "Example Company",
+          "description": "Example description of your responsibilities and achievements.",
+          "companyLogoUrl": null
+        }
+      ],
+      "projects": [
+        {
+          "name": "Facebook copia exacta",
+          "description": "Proyecto de una copia exacta de Facebook.",
+          "projectUrl": "https://github.com/joshua0231234/faceboock copia exacta",
+          "ProjectThumbnailUrl": null
+        }
+      ]
+    }
+  ]
+  
